@@ -1,0 +1,99 @@
+Tue Jul  8 19:59:22 2025 : [00:00:08.946,014] <inf> lte_ble_gw: Button 1 pressed, start Program
+Tue Jul  8 19:59:24 2025 : [00:00:10.547,607] <inf> lte_ble_gw: TRY TO CONNECT TO LTE-M
+Tue Jul  8 19:59:24 2025 : [00:00:10.781,311] <inf> nrf_modem_lib_trace: Trace thread ready
+Tue Jul  8 19:59:24 2025 : [00:00:10.789,001] <inf> nrf_modem_lib_trace: Trace level override: 2
+Tue Jul  8 19:59:24 2025 : [00:00:11.095,733] <inf> lte_ble_gw: certificates_provision: 0 <OK>
+Tue Jul  8 19:59:26 2025 : +CEREG: 2,"35E9","01D97E08",7
+Tue Jul  8 19:59:26 2025 : +CSCON: 1
+Tue Jul  8 19:59:27 2025 : +CEREG: 5,"35E9","01D97E08",7,,,"11100000","11100000"
+Tue Jul  8 19:59:27 2025 : [00:00:13.530,883] <inf> lte_ble_gw: Connected to the network in mode: 7
+Tue Jul  8 19:59:27 2025 : [00:00:13.530,914] <inf> lte_ble_gw: switch_to_mode: 0 <OK>
+Tue Jul  8 19:59:27 2025 : %XTIME: "80","52708071956280","01"
+Tue Jul  8 19:59:29 2025 : [00:00:15.805,908] <inf> lte_ble_gw: socket_connect_and_send: 0 <OK>
+Tue Jul  8 19:59:32 2025 : [00:00:19.098,205] <inf> lte_ble_gw: modem_info_params_init: 0 <OK>
+Tue Jul  8 19:59:32 2025 : --- 4 messages dropped ---
+Tue Jul  8 19:59:32 2025 : [00:00:19.129,699] <inf> lte_ble_gw: lte_lc_edrx_get: 0 <OK>
+Tue Jul  8 19:59:32 2025 : [00:00:19.129,699] <inf> lte_ble_gw: Modem parameters:
+Tue Jul  8 19:59:32 2025 : --- 1 messages dropped ---
+Tue Jul  8 19:59:32 2025 : [00:00:19.129,730] <inf> lte_ble_gw: APN: iot.1nce.net
+Tue Jul  8 19:59:32 2025 : [00:00:19.129,760] <inf> lte_ble_gw: TAC: 35E9
+Tue Jul  8 19:59:32 2025 : [00:00:19.129,791] <inf> lte_ble_gw: MCC: 262
+Tue Jul  8 19:59:32 2025 : [00:00:19.129,821] <inf> lte_ble_gw: MNC: 1
+Tue Jul  8 19:59:32 2025 : [00:00:19.129,821] <inf> lte_ble_gw: Band: 20
+Tue Jul  8 19:59:32 2025 : [00:00:19.129,852] <inf> lte_ble_gw: Earfcn: 6400
+Tue Jul  8 19:59:32 2025 : [00:00:19.129,852] <inf> lte_ble_gw: Cell ID: 31030792
+Tue Jul  8 19:59:32 2025 : [00:00:19.129,852] <inf> lte_ble_gw: Phy Cell ID: 133
+Tue Jul  8 19:59:32 2025 : [00:00:19.129,882] <inf> lte_ble_gw: Tx Power: 12
+Tue Jul  8 19:59:32 2025 : [00:00:19.129,882] <inf> lte_ble_gw: Rx Repetitions: 1
+Tue Jul  8 19:59:32 2025 : [00:00:19.129,913] <inf> lte_ble_gw: Tx Repetitions: 1
+Tue Jul  8 19:59:32 2025 : [00:00:19.129,913] <inf> lte_ble_gw: Energy Estimate: 7
+Tue Jul  8 19:59:32 2025 : [00:00:19.129,913] <inf> lte_ble_gw: Active Time: -1
+Tue Jul  8 19:59:32 2025 : [00:00:19.129,943] <inf> lte_ble_gw: CE Level: 0
+Tue Jul  8 19:59:32 2025 : [00:00:19.129,974] <inf> lte_ble_gw: eDRX: 0.000000
+Tue Jul  8 19:59:32 2025 : [00:00:19.129,974] <inf> lte_ble_gw: RSRP: 42
+Tue Jul  8 19:59:32 2025 : [00:00:19.129,974] <inf> lte_ble_gw: RSRQ: 6
+Tue Jul  8 19:59:32 2025 : [00:00:19.130,004] <inf> lte_ble_gw: SNR: 20
+Tue Jul  8 19:59:32 2025 : [00:00:19.130,004] <inf> lte_ble_gw: DL Pathloss: 119
+Tue Jul  8 19:59:32 2025 : [00:00:19.130,035] <inf> lte_ble_gw: Tau: 3240
+Tue Jul  8 19:59:32 2025 : [00:00:19.130,065] <inf> lte_ble_gw: TAU triggered: 0
+Tue Jul  8 19:59:32 2025 : [00:00:19.130,096] <inf> lte_ble_gw: Link: 7
+Tue Jul  8 19:59:32 2025 : [00:00:19.130,157] <inf> lte_ble_gw: get_parameters: 0 <OK>
+Tue Jul  8 19:59:32 2025 : [00:00:19.130,187] <inf> lte_ble_gw: Link throughput: 243968.875000
+Tue Jul  8 19:59:32 2025 : [00:00:19.134,307] <inf> lte_ble_gw: mqtt_publish: 0 <OK>
+Tue Jul  8 19:59:32 2025 : [00:00:19.138,397] <inf> lte_ble_gw: mqtt_disconnect: 0 <OK>
+Tue Jul  8 19:59:33 2025 : +CEREG: 0
+Tue Jul  8 19:59:34 2025 : +CSCON: 0
+Tue Jul  8 19:59:36 2025 : [00:00:22.493,865] <inf> lte_ble_gw: lte_lc_power_off: 0 <OK>
+Tue Jul  8 19:59:36 2025 : [00:00:22.518,859] <inf> nrf_modem_lib_trace: Modem was turned off, no more traces
+Tue Jul  8 19:59:36 2025 : [00:00:22.518,920] <inf> lte_ble_gw: nrf_modem_lib_shutdown: 0 <OK>
+Tue Jul  8 19:59:36 2025 : [00:00:22.518,920] <inf> lte_ble_gw: CONNECTION_TIME_LINK_LTEM: 2431
+Tue Jul  8 19:59:36 2025 : [00:00:22.518,951] <inf> lte_ble_gw: CONNECTION_TIME_PROTOCOL_LTEM: 3289
+Tue Jul  8 19:59:41 2025 : [00:00:27.519,073] <inf> lte_ble_gw: TRY TO CONNECT TO NBIOT
+Tue Jul  8 19:59:41 2025 : [00:00:27.752,777] <inf> nrf_modem_lib_trace: Trace thread ready
+Tue Jul  8 19:59:41 2025 : [00:00:27.760,467] <inf> nrf_modem_lib_trace: Trace level override: 2
+Tue Jul  8 19:59:41 2025 : [00:00:27.766,479] <inf> lte_ble_gw: nrf_modem_lib_init: 0 <OK>
+Tue Jul  8 19:59:41 2025 : [00:00:27.883,605] <inf> lte_ble_gw: certificates_provision: 0 <OK>
+Tue Jul  8 20:00:43 2025 : +CEREG: 2,"E2A4","02E10808",9
+Tue Jul  8 20:00:46 2025 : +CSCON: 1
+Tue Jul  8 20:01:01 2025 : +CEREG: 5,"E2A4","02E10808",9,,,"11100000","01011111"
+Tue Jul  8 20:01:01 2025 : [00:01:46.977,874] <inf> lte_ble_gw: Connected to the network in mode: 9
+Tue Jul  8 20:01:01 2025 : [00:01:46.977,935] <inf> lte_ble_gw: switch_to_mode: 0 <OK>
+Tue Jul  8 20:01:01 2025 : %XTIME: "80","52708081009580","01"
+Tue Jul  8 20:01:08 2025 : [00:01:54.072,967] <inf> lte_ble_gw: socket_connect_and_send: 0 <OK>
+Tue Jul  8 20:02:05 2025 : [00:02:52.875,823] <inf> lte_ble_gw: modem_info_params_init: 0 <OK>
+Tue Jul  8 20:02:05 2025 : --- 5 messages dropped ---
+Tue Jul  8 20:02:05 2025 : [00:02:52.906,738] <inf> lte_ble_gw: lte_lc_edrx_get: 0 <OK>
+Tue Jul  8 20:02:05 2025 : [00:02:52.906,738] <inf> lte_ble_gw: Modem parameters:
+Tue Jul  8 20:02:05 2025 : [00:02:52.906,799] <inf> lte_ble_gw: APN: iot.1nce.net
+Tue Jul  8 20:02:05 2025 : [00:02:52.906,829] <inf> lte_ble_gw: TAC: E2A4
+Tue Jul  8 20:02:05 2025 : [00:02:52.906,860] <inf> lte_ble_gw: MCC: 262
+Tue Jul  8 20:02:05 2025 : [00:02:52.906,860] <inf> lte_ble_gw: MNC: 1
+Tue Jul  8 20:02:05 2025 : [00:02:52.906,860] <inf> lte_ble_gw: Band: 8
+Tue Jul  8 20:02:05 2025 : [00:02:52.906,890] <inf> lte_ble_gw: Earfcn: 3739
+Tue Jul  8 20:02:05 2025 : [00:02:52.906,890] <inf> lte_ble_gw: Cell ID: 48302088
+Tue Jul  8 20:02:05 2025 : [00:02:52.906,921] <inf> lte_ble_gw: Phy Cell ID: 462
+Tue Jul  8 20:02:05 2025 : [00:02:52.906,921] <inf> lte_ble_gw: Tx Power: 18
+Tue Jul  8 20:02:05 2025 : [00:02:52.906,921] <inf> lte_ble_gw: Rx Repetitions: 8
+Tue Jul  8 20:02:05 2025 : [00:02:52.906,951] <inf> lte_ble_gw: Tx Repetitions: 4
+Tue Jul  8 20:02:05 2025 : [00:02:52.906,951] <inf> lte_ble_gw: Energy Estimate: 6
+Tue Jul  8 20:02:06 2025 : [00:02:52.906,982] <inf> lte_ble_gw: Active Time: -1
+Tue Jul  8 20:02:06 2025 : [00:02:52.906,982] <inf> lte_ble_gw: CE Level: 0
+Tue Jul  8 20:02:06 2025 : [00:02:52.907,012] <inf> lte_ble_gw: eDRX: 0.000000
+Tue Jul  8 20:02:06 2025 : [00:02:52.907,012] <inf> lte_ble_gw: RSRP: 38
+Tue Jul  8 20:02:06 2025 : [00:02:52.907,012] <inf> lte_ble_gw: RSRQ: 14
+Tue Jul  8 20:02:06 2025 : [00:02:52.907,043] <inf> lte_ble_gw: SNR: 21
+Tue Jul  8 20:02:06 2025 : [00:02:52.907,043] <inf> lte_ble_gw: DL Pathloss: 123
+Tue Jul  8 20:02:06 2025 : [00:02:52.907,073] <inf> lte_ble_gw: Tau: 1116000
+Tue Jul  8 20:02:06 2025 : [00:02:52.907,073] <inf> lte_ble_gw: TAU triggered: 0
+Tue Jul  8 20:02:06 2025 : [00:02:52.907,104] <inf> lte_ble_gw: Link: 9
+Tue Jul  8 20:02:06 2025 : [00:02:52.907,165] <inf> lte_ble_gw: get_parameters: 0 <OK>
+Tue Jul  8 20:02:06 2025 : [00:02:52.907,226] <inf> lte_ble_gw: Link throughput: 10733.859375
+Tue Jul  8 20:02:06 2025 : [00:02:52.910,247] <inf> lte_ble_gw: mqtt_publish: 0 <OK>
+Tue Jul  8 20:02:06 2025 : [00:02:52.913,787] <inf> lte_ble_gw: mqtt_disconnect: 0 <OK>
+Tue Jul  8 20:02:11 2025 : +CEREG: 0
+Tue Jul  8 20:02:11 2025 : +CSCON: 0
+Tue Jul  8 20:02:11 2025 : [00:02:58.015,563] <inf> lte_ble_gw: lte_lc_power_off: 0 <OK>
+Tue Jul  8 20:02:11 2025 : [00:02:58.068,359] <inf> nrf_modem_lib_trace: Modem was turned off, no more traces
+Tue Jul  8 20:02:11 2025 : [00:02:58.068,420] <inf> lte_ble_gw: nrf_modem_lib_shutdown: 0 <OK>
+Tue Jul  8 20:02:11 2025 : [00:02:58.068,450] <inf> lte_ble_gw: CONNECTION_TIME_LINK_NBIOT: 79091
+Tue Jul  8 20:02:11 2025 : [00:02:58.068,450] <inf> lte_ble_gw: CONNECTION_TIME_PROTOCOL_NBIOT: 58800

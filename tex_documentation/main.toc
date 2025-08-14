@@ -1,0 +1,90 @@
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Related Work}{2}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Protocol Performance in Cellular IoT Networks}{2}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Energy Consumption Analysis}{2}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Coverage and Capacity Analysis}{3}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Similarities and Differences}{3}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}Research Gap and Contribution}{3}{subsection.1.2.5}%
+\contentsline {section}{\numberline {1.3}Objectives}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Structure of the Thesis}{5}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Theoretical Background}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}NB-IoT}{6}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Frequency Usage and Deployment Modes}{6}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Physical Layer and Modulation Schemes}{6}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Channel Coding and Error Correction}{7}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Bandwidth, Throughput, and Latency}{7}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Security Aspects}{8}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}Power Consumption and Energy Efficiency}{8}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}Network Parameter Evaluation}{9}{subsection.2.1.7}%
+\contentsline {subsection}{\numberline {2.1.8}Summary}{9}{subsection.2.1.8}%
+\contentsline {section}{\numberline {2.2}LTE-M}{9}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Frequency Usage and Deployment Modes}{9}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Physical Layer and Modulation Schemes}{10}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Channel Coding and Error Correction}{10}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Bandwidth, Throughput, and Latency}{11}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Mobility and Handover Support}{11}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}Security Aspects}{11}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.7}Power Consumption and Energy Efficiency}{12}{subsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.2.8}Network Parameter Evaluation}{12}{subsection.2.2.8}%
+\contentsline {subsection}{\numberline {2.2.9}Summary}{12}{subsection.2.2.9}%
+\contentsline {section}{\numberline {2.3}MQTT}{12}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Architectural Model}{13}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Transport Layer and Connection Establishment}{13}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Messaging and Quality of Service}{13}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Performance Considerations in Connection Stability}{14}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Visualization of Connection Establishment}{14}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}Security Features and Mechanisms}{14}{subsection.2.3.6}%
+\contentsline {subsection}{\numberline {2.3.7}Summary}{14}{subsection.2.3.7}%
+\contentsline {section}{\numberline {2.4}LWM2M}{14}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Architectural Model}{17}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Transport Layer and Connection Establishment}{17}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Messaging and QOS}{17}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Performance Considerations in Connection Stability}{18}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}Visualization of Connection Phases}{18}{subsection.2.4.5}%
+\contentsline {subsection}{\numberline {2.4.6}Security Features and Mechanisms}{18}{subsection.2.4.6}%
+\contentsline {subsection}{\numberline {2.4.7}Summary}{18}{subsection.2.4.7}%
+\contentsline {section}{\numberline {2.5}Comparison of NB-IoT and LTE-M}{18}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Comparison of MQTT and LwM2M}{20}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Implementation}{22}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Hardware Overview}{22}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Software Overview}{22}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Operating System and SDK}{24}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Development Environment}{24}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}GNSS and AGNSS Integration}{24}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Communication Infrastructure}{24}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Data Storage and Backend Processing}{25}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}Multi-Board Setup}{25}{subsection.3.2.6}%
+\contentsline {section}{\numberline {3.3}Measurement setup}{25}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Firmware Workflow and Test Procedure}{26}{subsection.3.3.1}%
+\contentsline {paragraph}{\numberline {3.3.1.0.1}MQTT and GNSS Board}{26}{paragraph.3.3.1.0.1}%
+\contentsline {paragraph}{\numberline {3.3.1.0.2}LwM2M Board}{26}{paragraph.3.3.1.0.2}%
+\contentsline {subsection}{\numberline {3.3.2}Data Collection and Logging Framework}{27}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Modem Trace Analysis}{28}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Parallelized Testing}{28}{subsection.3.3.4}%
+\contentsline {section}{\numberline {3.4}Challenges}{28}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Modem Trace Extraction and Analysis}{29}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Throughput Measurement Implementation}{29}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Measurement Framework Stability and Automation}{30}{subsection.3.4.3}%
+\contentsline {chapter}{\numberline {4}Measurements}{31}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Data Processing and Analysis Methodology}{35}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Measurement Results}{39}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Communication Technology comparisons}{39}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Protocol and Technology Combination Analysis}{54}{subsection.4.2.2}%
+\contentsline {chapter}{\numberline {5}Discussion}{67}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Interpretation of results}{67}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Signal Quality and Coverage Performance}{67}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Power Consumption and Energy Efficiency}{68}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Connection Establishment and Throughput Performance}{68}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}Limitations of the Study}{69}{subsection.5.1.4}%
+\contentsline {chapter}{\numberline {6}Conclusion}{71}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Summary of Findings}{71}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Communication Technology Performance}{71}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Protocol Performance Across Technologies}{72}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Technology and Protocol Recommendations}{72}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}Research Contributions}{73}{subsection.6.1.4}%
+\contentsline {chapter}{\numberline {7}Outlook}{75}{chapter.7}%
+\contentsline {section}{Tools Used}{76}{section*.27}%
+\contentsline {chapter}{\numberline {8}Acknowledgements}{77}{chapter.8}%

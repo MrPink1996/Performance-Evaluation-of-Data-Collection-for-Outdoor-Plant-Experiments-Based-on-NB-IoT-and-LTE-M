@@ -1,0 +1,12 @@
+pyserial
+scapy
+requests
+paho-mqtt
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+folium
+pyshark
+psycopg2

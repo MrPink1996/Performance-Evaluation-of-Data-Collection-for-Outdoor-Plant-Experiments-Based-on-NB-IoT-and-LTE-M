@@ -1,0 +1,32 @@
+/* Use the reset line that is available starting from v0.14.0 of the DK. */
+#include <nrf9160/nrf9160dk_nrf52840_reset_on_if9.dtsi>
+
+/ {
+	zephyr,user {
+		io-channels = <&adc 0>, <&adc 1>;
+	};
+};
+
+&adc {
+	#address-cells = <1>;
+	#size-cells = <0>;
+
+	channel@0 {
+		reg = <0>;
+		zephyr,gain = "ADC_GAIN_1_4";
+		zephyr,reference = "ADC_REF_INTERNAL";
+		zephyr,acquisition-time = <ADC_ACQ_TIME_DEFAULT>;
+		zephyr,input-positive = <NRF_SAADC_AIN1>;
+		zephyr,resolution = <12>;
+	};
+
+	channel@1 {
+		reg = <1>;
+		zephyr,gain = "ADC_GAIN_1_6";
+		zephyr,reference = "ADC_REF_INTERNAL";
+		zephyr,acquisition-time = <ADC_ACQ_TIME_DEFAULT>;
+		zephyr,input-positive = <NRF_SAADC_AIN2>; 
+		zephyr,resolution = <14>;
+		zephyr,oversampling = <8>;
+	};
+};

@@ -1,0 +1,92 @@
+Tue Jul  8 20:12:41 2025 : [00:00:05.146,209] <inf> lte_ble_gw: Button 1 pressed, start Program
+Tue Jul  8 20:12:42 2025 : [00:00:06.747,802] <inf> lte_ble_gw: GET GPS DATA
+Tue Jul  8 20:12:42 2025 : [00:00:06.989,440] <inf> lte_ble_gw: nrf_modem_lib_init: 0 <OK>
+Tue Jul  8 20:12:45 2025 : [00:00:09.957,580] <inf> lte_ble_gw: Connected to the network in mode: 7
+Tue Jul  8 20:12:45 2025 : [00:00:09.957,641] <inf> lte_ble_gw: switch_to_mode: 0 <OK>
+Tue Jul  8 20:12:45 2025 : [00:00:09.958,923] <inf> lte_ble_gw: lte_lc_func_mode: 0 <OK>
+Tue Jul  8 20:12:45 2025 : [00:00:09.958,984] <inf> lte_ble_gw: nrf_modem_gnss_event_handler_set: 0 <OK>
+Tue Jul  8 20:12:45 2025 : [00:00:09.960,327] <inf> lte_ble_gw: nrf_modem_gnss_fix_interval_set: 0 <OK>
+Tue Jul  8 20:12:45 2025 : [00:00:09.961,730] <inf> lte_ble_gw: nrf_modem_gnss_fix_retry_set: 0 <OK>
+Tue Jul  8 20:12:45 2025 : [00:00:10.503,173] <inf> lte_ble_gw: Connecting to 66.102.1.192 port 7276
+Tue Jul  8 20:12:45 2025 : [00:00:10.695,007] <inf> lte_ble_gw: open_supl_socket: 0 <OK>
+Tue Jul  8 20:12:45 2025 : [00:00:10.695,037] <inf> lte_ble_gw: assistance_init: 0 <OK>
+Tue Jul  8 20:12:45 2025 : [00:00:10.698,547] <inf> lte_ble_gw: nrf_modem_gnss_start: 0 <OK>
+Tue Jul  8 20:12:47 2025 : [00:00:11.697,784] <inf> lte_ble_gw: Satalite data: Tracked: 0, In_fix: 0, Unhealthy: 0
+Tue Jul  8 20:12:47 2025 : [00:00:11.698,730] <inf> lte_ble_gw: nrf_modem_gnss_read: 0 <OK>
+Tue Jul  8 20:12:47 2025 : [00:00:11.699,645] <inf> lte_ble_gw: Connecting to 66.102.1.192 port 7276
+Tue Jul  8 20:12:47 2025 : [00:00:11.910,675] <inf> lte_ble_gw: Starting SUPL session
+Tue Jul  8 20:12:47 2025 : [00:00:11.912,536] <inf> lte_ble_gw: ULP encoding length: 34
+Tue Jul  8 20:12:47 2025 : [00:00:11.913,085] <inf> lte_ble_gw: Bytes sent: 34
+Tue Jul  8 20:12:47 2025 : [00:00:12.307,434] <inf> lte_ble_gw: Bytes received: 30, total 30
+Tue Jul  8 20:12:47 2025 : [00:00:12.308,044] <inf> lte_ble_gw: ULP ossDecode success, choice 3
+Tue Jul  8 20:12:47 2025 : [00:00:12.308,197] <inf> lte_ble_gw: SUPL server responded using version 2.0.4
+Tue Jul  8 20:12:47 2025 : [00:00:12.308,319] <inf> lte_ble_gw: SUPL response received
+Tue Jul  8 20:12:47 2025 : [00:00:12.308,563] <inf> lte_ble_gw: ULP encoding length: 53
+Tue Jul  8 20:12:47 2025 : [00:00:12.309,326] <inf> lte_ble_gw: Bytes sent: 53
+Tue Jul  8 20:12:48 2025 : [00:00:12.698,028] <inf> lte_ble_gw: Satalite data: Tracked: 0, In_fix: 0, Unhealthy: 0
+Tue Jul  8 20:12:48 2025 : [00:00:13.179,962] <inf> lte_ble_gw: Bytes received: 708, total 708
+Tue Jul  8 20:12:48 2025 : [00:00:13.180,603] <inf> lte_ble_gw: ULP ossDecode more input 4
+Tue Jul  8 20:12:48 2025 : [00:00:13.698,181] <inf> lte_ble_gw: Satalite data: Tracked: 0, In_fix: 0, Unhealthy: 0
+Tue Jul  8 20:12:50 2025 : [00:00:14.698,669] <inf> lte_ble_gw: Satalite data: Tracked: 0, In_fix: 0, Unhealthy: 0
+Tue Jul  8 20:12:50 2025 : [00:00:15.699,035] <inf> lte_ble_gw: Satalite data: Tracked: 0, In_fix: 0, Unhealthy: 0
+Tue Jul  8 20:12:52 2025 : [00:00:16.150,268] <inf> lte_ble_gw: Bytes received: 708, total 1416
+Tue Jul  8 20:12:52 2025 : [00:00:16.150,909] <inf> lte_ble_gw: ULP ossDecode more input 4
+Tue Jul  8 20:12:52 2025 : [00:00:16.699,188] <inf> lte_ble_gw: Satalite data: Tracked: 0, In_fix: 0, Unhealthy: 0
+Tue Jul  8 20:12:52 2025 : [00:00:17.064,178] <inf> lte_ble_gw: Bytes received: 708, total 2124
+Tue Jul  8 20:12:52 2025 : [00:00:17.064,788] <inf> lte_ble_gw: ULP ossDecode more input 4
+Tue Jul  8 20:12:52 2025 : [00:00:17.699,798] <inf> lte_ble_gw: Satalite data: Tracked: 0, In_fix: 0, Unhealthy: 0
+Tue Jul  8 20:12:52 2025 : [00:00:17.727,691] <inf> lte_ble_gw: Bytes received: 256, total 2380
+Tue Jul  8 20:12:52 2025 : [00:00:17.728,576] <inf> lte_ble_gw: ULP ossDecode success, choice 5
+Tue Jul  8 20:12:52 2025 : [00:00:17.732,452] <inf> lte_ble_gw: Injected A-GNSS data, type: 4, size: 8
+Tue Jul  8 20:12:52 2025 : [00:00:17.732,940] <inf> lte_ble_gw: Injected A-GNSS data, type: 6, size: 144
+Tue Jul  8 20:12:52 2025 : [00:00:17.733,428] <inf> lte_ble_gw: Injected A-GNSS data, type: 7, size: 16
+Tue Jul  8 20:12:52 2025 : [00:00:17.733,886] <inf> lte_ble_gw: Injected A-GNSS data, type: 1, size: 16
+Tue Jul  8 20:12:53 2025 : [00:00:17.738,128] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.743,499] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.748,138] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.752,960] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.757,812] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.762,878] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.768,005] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.772,644] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.777,679] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.782,440] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.787,231] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.792,114] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.796,997] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.801,849] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.806,457] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.810,913] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.814,605] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.819,305] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.824,493] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.825,836] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.830,474] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.835,266] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.840,026] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.845,184] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.849,731] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.854,400] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.859,100] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.864,624] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.869,232] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.873,931] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.878,875] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.883,483] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Tue Jul  8 20:12:53 2025 : [00:00:17.883,575] <inf> lte_ble_gw: No almanac data available
+Tue Jul  8 20:12:53 2025 : [00:00:17.883,666] <inf> lte_ble_gw: No integrity data available
+Tue Jul  8 20:12:53 2025 : [00:00:17.883,728] <inf> lte_ble_gw: SUPL POS received
+Tue Jul  8 20:12:53 2025 : [00:00:17.883,880] <inf> lte_ble_gw: Read error: -1
+Tue Jul  8 20:12:53 2025 : [00:00:17.884,002] <inf> lte_ble_gw: SUPL session internal resources released
+Tue Jul  8 20:12:53 2025 : [00:00:17.884,063] <inf> lte_ble_gw: SUPL session finished
+Tue Jul  8 20:12:53 2025 : [00:00:17.884,094] <inf> lte_ble_gw: Done
+Tue Jul  8 20:12:53 2025 : [00:00:17.984,863] <inf> lte_ble_gw: SUPL socket closed OK 4
+Tue Jul  8 20:12:53 2025 : [00:00:17.984,893] <inf> lte_ble_gw: assistance_request: 0 <OK>
+Tue Jul  8 20:12:55 2025 : [00:00:19.005,706] <inf> lte_ble_gw: Satalite data: Tracked: 0, In_fix: 0, Unhealthy: 0
+Tue Jul  8 20:12:55 2025 : [00:00:19.791,809] <inf> lte_ble_gw: Satalite data: Tracked: 0, In_fix: 0, Unhealthy: 0
+Tue Jul  8 20:12:55 2025 : [00:00:19.792,083] <inf> lte_ble_gw: lte_lc_func_mode: 0 <OK>
+Tue Jul  8 20:12:55 2025 : [00:00:19.792,114] <inf> lte_ble_gw: GNSS started, waiting for fix...
+Tue Jul  8 20:12:57 2025 : [00:00:20.805,816] <inf> lte_ble_gw: Satalite data: Tracked: 10, In_fix: 2, Unhealthy: 0
+Tue Jul  8 20:12:58 2025 : [00:00:21.893,341] <inf> lte_ble_gw: GNSS Fix: Latitude: 50.910204, Longitude: 6.894979, Accuracy: 14.291731 m
+Tue Jul  8 20:12:58 2025 : [00:00:21.893,432] <inf> lte_ble_gw: Satalite data: Tracked: 10, In_fix: 4, Unhealthy: 0
+Tue Jul  8 20:13:01 2025 : [00:00:24.792,236] <inf> lte_ble_gw: FOUND GNSS FIX: Latitude:50.910206, Longitude:6.894979, Accuracy:14.291731,

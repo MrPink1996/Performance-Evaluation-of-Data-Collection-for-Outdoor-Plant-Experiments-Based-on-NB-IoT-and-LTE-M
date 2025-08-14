@@ -1,0 +1,908 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global/global}
+    \entry{MQTT}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=1743caebd3459947747a2f622548d0df}{%
+           family={Kodali},
+           familyi={K\bibinitperiod},
+           given={Ravi\bibnamedelima Kishore},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=4d9f8b009235b79a04ccb19f13fc00f5}{%
+           family={Soratkal},
+           familyi={S\bibinitperiod},
+           given={SreeRamya},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Warangal, India}%
+      }
+      \list{organization}{1}{%
+        {National Institute Of Technology, Warangal}%
+      }
+      \strng{namehash}{a1525616e0f4845c540d8c9a0ff8cc32}
+      \strng{fullhash}{a1525616e0f4845c540d8c9a0ff8cc32}
+      \strng{fullhashraw}{a1525616e0f4845c540d8c9a0ff8cc32}
+      \strng{bibnamehash}{a1525616e0f4845c540d8c9a0ff8cc32}
+      \strng{authorbibnamehash}{a1525616e0f4845c540d8c9a0ff8cc32}
+      \strng{authornamehash}{a1525616e0f4845c540d8c9a0ff8cc32}
+      \strng{authorfullhash}{a1525616e0f4845c540d8c9a0ff8cc32}
+      \strng{authorfullhashraw}{a1525616e0f4845c540d8c9a0ff8cc32}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2016 IEEE Region 10 Humanitarian Technology Conference (R10-HTC)}
+      \field{note}{Accessed Aug 13, 2025}
+      \field{title}{MQTT based Home Automation System Using ESP8266}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/316448543_MQTT_based_home_automation_system_using_ESP8266
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/316448543_MQTT_based_home_automation_system_using_ESP8266
+      \endverb
+    \endentry
+    \entry{related_work_coverage_capacity}{inproceedings}{}{}
+      \name{author}{5}{}{%
+        {{hash=1e2eaad39c10ec15102255ee4676dece}{%
+           family={Lauridsen},
+           familyi={L\bibinitperiod},
+           given={Mads},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2a3e1c37d423df056ce1be39bee8cafb}{%
+           family={Kovacs},
+           familyi={K\bibinitperiod},
+           given={Istvan\bibnamedelima Z.},
+           giveni={I\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=6d492602ddfcf8fe15922d6c50571766}{%
+           family={Mogensen},
+           familyi={M\bibinitperiod},
+           given={Preben},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4cd3432f1c31f1ea7798737655ae65a9}{%
+           family={Sorensen},
+           familyi={S\bibinitperiod},
+           given={Mads},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a7fc2a9abe5a2ae978d747e1beba6d84}{%
+           family={Holst},
+           familyi={H\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Montreal, QC, Canada}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{ce1df519d781e84ea92eb5f1edd146ca}
+      \strng{fullhash}{76c6fe4b96d4dd8b3a5c9cc776738259}
+      \strng{fullhashraw}{76c6fe4b96d4dd8b3a5c9cc776738259}
+      \strng{bibnamehash}{ce1df519d781e84ea92eb5f1edd146ca}
+      \strng{authorbibnamehash}{ce1df519d781e84ea92eb5f1edd146ca}
+      \strng{authornamehash}{ce1df519d781e84ea92eb5f1edd146ca}
+      \strng{authorfullhash}{76c6fe4b96d4dd8b3a5c9cc776738259}
+      \strng{authorfullhashraw}{76c6fe4b96d4dd8b3a5c9cc776738259}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2016 IEEE 84th Vehicular Technology Conference (VTC-Fall)}
+      \field{isbn}{978-1-5090-1701-0}
+      \field{month}{9}
+      \field{note}{Date of Conference: 18-21 September 2016; Date Added to IEEE Xplore: 20 March 2017}
+      \field{title}{Coverage and Capacity Analysis of LTE-M and NB-IoT in a Rural Area}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1109/VTCFall.2016.7880946
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/7880946
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/7880946
+      \endverb
+    \endentry
+    \entry{NBIOT_SYSTEM}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{hash=ff3d8f1fd8a4a57f3aa4c83c311f8c79}{%
+           family={Ratasuk},
+           familyi={R\bibinitperiod},
+           given={Rapeepat},
+           giveni={R\bibinitperiod}}}%
+        {{hash=750c3cebf1aee90536c20917d8df689c}{%
+           family={Vejlgaard},
+           familyi={V\bibinitperiod},
+           given={Benny},
+           giveni={B\bibinitperiod}}}%
+        {{hash=b0a87721cb5c0b75fa7662910bfb0483}{%
+           family={Mangalvedhe},
+           familyi={M\bibinitperiod},
+           given={Nitin},
+           giveni={N\bibinitperiod}}}%
+        {{hash=2db028a6af89d13e0e294ea39265b486}{%
+           family={Ghosh},
+           familyi={G\bibinitperiod},
+           given={Amitava},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Doha, Qatar}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{e803f2b65b3c4ddadde8e601288d9b70}
+      \strng{fullhash}{c486bd5f190b42fe6fde89b95dcd99b2}
+      \strng{fullhashraw}{c486bd5f190b42fe6fde89b95dcd99b2}
+      \strng{bibnamehash}{e803f2b65b3c4ddadde8e601288d9b70}
+      \strng{authorbibnamehash}{e803f2b65b3c4ddadde8e601288d9b70}
+      \strng{authornamehash}{e803f2b65b3c4ddadde8e601288d9b70}
+      \strng{authorfullhash}{c486bd5f190b42fe6fde89b95dcd99b2}
+      \strng{authorfullhashraw}{c486bd5f190b42fe6fde89b95dcd99b2}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2016 IEEE Wireless Communications and Networking Conference Workshops (WCNCW)}
+      \field{isbn}{978-1-4673-8666-1}
+      \field{month}{4}
+      \field{note}{Date of Conference: 03-06 April 2016; Date Added to IEEE Xplore: 29 August 2016; PoD ISBN: 978-1-4673-8667-8}
+      \field{title}{NB-IoT system for M2M communication}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1109/WCNCW.2016.7552737
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/7552737
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/7552737
+      \endverb
+    \endentry
+    \entry{naik2017choice}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=dc0f194568ffac6e0dabf705c2ac2a04}{%
+           family={Naik},
+           familyi={N\bibinitperiod},
+           given={Nitin},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna, Austria}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{dc0f194568ffac6e0dabf705c2ac2a04}
+      \strng{fullhash}{dc0f194568ffac6e0dabf705c2ac2a04}
+      \strng{fullhashraw}{dc0f194568ffac6e0dabf705c2ac2a04}
+      \strng{bibnamehash}{dc0f194568ffac6e0dabf705c2ac2a04}
+      \strng{authorbibnamehash}{dc0f194568ffac6e0dabf705c2ac2a04}
+      \strng{authornamehash}{dc0f194568ffac6e0dabf705c2ac2a04}
+      \strng{authorfullhash}{dc0f194568ffac6e0dabf705c2ac2a04}
+      \strng{authorfullhashraw}{dc0f194568ffac6e0dabf705c2ac2a04}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 IEEE International Systems Engineering Symposium (ISSE)}
+      \field{month}{10}
+      \field{note}{Date of Conference: 11-13 October 2017; Date Added to IEEE Xplore: 30 October 2017}
+      \field{title}{Choice of effective messaging protocols for IoT systems: MQTT, CoAP, AMQP and HTTP}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1109/SysEng.2017.8088251
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/8088251
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/8088251
+      \endverb
+    \endentry
+    \entry{LTE_SYSTEM}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{hash=ff3d8f1fd8a4a57f3aa4c83c311f8c79}{%
+           family={Ratasuk},
+           familyi={R\bibinitperiod},
+           given={Rapeepat},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b0a87721cb5c0b75fa7662910bfb0483}{%
+           family={Mangalvedhe},
+           familyi={M\bibinitperiod},
+           given={Nitin},
+           giveni={N\bibinitperiod}}}%
+        {{hash=904d4c13f080a56c5501a3f3a8563b90}{%
+           family={Bhatoolaul},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2db028a6af89d13e0e294ea39265b486}{%
+           family={Ghosh},
+           familyi={G\bibinitperiod},
+           given={Amitava},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Singapore}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{e803f2b65b3c4ddadde8e601288d9b70}
+      \strng{fullhash}{a2240234f0dca634556acf3725731468}
+      \strng{fullhashraw}{a2240234f0dca634556acf3725731468}
+      \strng{bibnamehash}{e803f2b65b3c4ddadde8e601288d9b70}
+      \strng{authorbibnamehash}{e803f2b65b3c4ddadde8e601288d9b70}
+      \strng{authornamehash}{e803f2b65b3c4ddadde8e601288d9b70}
+      \strng{authorfullhash}{a2240234f0dca634556acf3725731468}
+      \strng{authorfullhashraw}{a2240234f0dca634556acf3725731468}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 IEEE Globecom Workshops (GC Wkshps)}
+      \field{month}{12}
+      \field{note}{Date of Conference: 04-08 December 2017; Date Added to IEEE Xplore: 25 January 2018}
+      \field{title}{LTE-M Evolution Towards 5G Massive MTC}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1109/GLOCOMW.2017.8269112
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/8269112
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/8269112
+      \endverb
+    \endentry
+    \entry{NBIOT_POWER}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=d9fcb92c1a98f85222abc775322b024e}{%
+           family={Jörke},
+           familyi={J\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2e0bb20c9e3e569630cb136e2201df94}{%
+           family={Falkenberg},
+           familyi={F\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3e545b37dcb0f6accfff1f6c5f8ca320}{%
+           family={Wietfeld},
+           familyi={W\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Abu Dhabi, United Arab Emirates}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{704b6f6983629bda60500539fcbff258}
+      \strng{fullhash}{704b6f6983629bda60500539fcbff258}
+      \strng{fullhashraw}{704b6f6983629bda60500539fcbff258}
+      \strng{bibnamehash}{704b6f6983629bda60500539fcbff258}
+      \strng{authorbibnamehash}{704b6f6983629bda60500539fcbff258}
+      \strng{authornamehash}{704b6f6983629bda60500539fcbff258}
+      \strng{authorfullhash}{704b6f6983629bda60500539fcbff258}
+      \strng{authorfullhashraw}{704b6f6983629bda60500539fcbff258}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 IEEE Globecom Workshops (GC Wkshps)}
+      \field{month}{12}
+      \field{note}{Date of Conference: 09-13 December 2018; Date Added to IEEE Xplore: 21 February 2019}
+      \field{title}{Power Consumption Analysis of NB-IoT and eMTC in Challenging Smart City Environments}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1109/GLOCOMW.2018.8644481
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/8644481
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/8644481
+      \endverb
+    \endentry
+    \entry{oma_lwm2m_2017}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=221f278ecb8783958b3a377ba9ea1a71}{%
+           family={SpecWorks},
+           familyi={S\bibinitperiod},
+           given={OMA},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Open Mobile Alliance}%
+      }
+      \strng{namehash}{221f278ecb8783958b3a377ba9ea1a71}
+      \strng{fullhash}{221f278ecb8783958b3a377ba9ea1a71}
+      \strng{fullhashraw}{221f278ecb8783958b3a377ba9ea1a71}
+      \strng{bibnamehash}{221f278ecb8783958b3a377ba9ea1a71}
+      \strng{authorbibnamehash}{221f278ecb8783958b3a377ba9ea1a71}
+      \strng{authornamehash}{221f278ecb8783958b3a377ba9ea1a71}
+      \strng{authorfullhash}{221f278ecb8783958b3a377ba9ea1a71}
+      \strng{authorfullhashraw}{221f278ecb8783958b3a377ba9ea1a71}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lightweight Machine to Machine Technical Specification: Core}
+      \field{type}{techreport}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.openmobilealliance.org/release/LightweightM2M/V1_1_1-20190617-A/OMA-TS-LightweightM2M_Core-V1_1_1-20190617-A.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.openmobilealliance.org/release/LightweightM2M/V1_1_1-20190617-A/OMA-TS-LightweightM2M_Core-V1_1_1-20190617-A.pdf
+      \endverb
+    \endentry
+    \entry{NBIOT_PHYSICAL_LAYER}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=e8147dfefac81188e766a02a73116668}{%
+           family={Kanj},
+           familyi={K\bibinitperiod},
+           given={Matthieu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=443325840fc1688f1d9c37973677cc07}{%
+           family={Savaux},
+           familyi={S\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d3f56ef54b026206d86ca849e20d4269}{%
+           family={Guen},
+           familyi={G\bibinitperiod},
+           given={Mathieu\bibnamedelima Le},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6e131d1170632feac61f9cce6da109ab}
+      \strng{fullhash}{6e131d1170632feac61f9cce6da109ab}
+      \strng{fullhashraw}{6e131d1170632feac61f9cce6da109ab}
+      \strng{bibnamehash}{6e131d1170632feac61f9cce6da109ab}
+      \strng{authorbibnamehash}{6e131d1170632feac61f9cce6da109ab}
+      \strng{authornamehash}{6e131d1170632feac61f9cce6da109ab}
+      \strng{authorfullhash}{6e131d1170632feac61f9cce6da109ab}
+      \strng{authorfullhashraw}{6e131d1170632feac61f9cce6da109ab}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Communications Surveys & Tutorials}
+      \field{month}{9}
+      \field{note}{Date of Publication: 11 September 2020}
+      \field{number}{4}
+      \field{title}{A Tutorial on NB-IoT Physical Layer Design}
+      \field{volume}{22}
+      \field{year}{2020}
+      \field{pages}{2408\bibrangedash 2446}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1109/COMST.2020.3022751
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/9194757
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/9194757
+      \endverb
+    \endentry
+    \entry{related_work_comparison}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=e4c3b9dc762b569d85bc8ab44d6ef414}{%
+           family={Parmigiani},
+           familyi={P\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=44107a79d708792e2bc37d9da6c791d1}{%
+           family={Dettmar},
+           familyi={D\bibinitperiod},
+           given={Uwe},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bandung, Indonesia}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7fcbef5ac1500caedfc04305867b168d}
+      \strng{fullhash}{7fcbef5ac1500caedfc04305867b168d}
+      \strng{fullhashraw}{7fcbef5ac1500caedfc04305867b168d}
+      \strng{bibnamehash}{7fcbef5ac1500caedfc04305867b168d}
+      \strng{authorbibnamehash}{7fcbef5ac1500caedfc04305867b168d}
+      \strng{authornamehash}{7fcbef5ac1500caedfc04305867b168d}
+      \strng{authorfullhash}{7fcbef5ac1500caedfc04305867b168d}
+      \strng{authorfullhashraw}{7fcbef5ac1500caedfc04305867b168d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 IEEE International Conference on Internet of Things and Intelligence Systems (IoTaIS)}
+      \field{isbn}{978-1-6654-2035-8}
+      \field{month}{11}
+      \field{note}{Date of Conference: 23-24 November 2021; Date Added to IEEE Xplore: 07 December 2021; USB ISBN: 978-1-6654-2034-1; PoD ISBN: 978-1-6654-2036-5}
+      \field{title}{Comparison and Evaluation of LwM2M and MQTT in Low-Power Wide-Area Networks}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1109/IoTaIS53735.2021.9628463
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/9628463
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/9628463
+      \endverb
+    \endentry
+    \entry{CONFIDENCE_INTERVAL}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=7b07c7518af154ffdbb577dd2e22eda4}{%
+           family={Bevans},
+           familyi={B\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b07c7518af154ffdbb577dd2e22eda4}
+      \strng{fullhash}{7b07c7518af154ffdbb577dd2e22eda4}
+      \strng{fullhashraw}{7b07c7518af154ffdbb577dd2e22eda4}
+      \strng{bibnamehash}{7b07c7518af154ffdbb577dd2e22eda4}
+      \strng{authorbibnamehash}{7b07c7518af154ffdbb577dd2e22eda4}
+      \strng{authornamehash}{7b07c7518af154ffdbb577dd2e22eda4}
+      \strng{authorfullhash}{7b07c7518af154ffdbb577dd2e22eda4}
+      \strng{authorfullhashraw}{7b07c7518af154ffdbb577dd2e22eda4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Understanding Confidence Intervals | Easy Examples \& Formulas}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.scribbr.co.uk/stats/confidence-interval-meaning/#:~:text=using%20confidence%20intervals-,What%20exactly%20is%20a%20confidence%20interval?,specified%20by%20the%20confidence%20interval.&text=So%20if%20you%20use%20an,=%200.95%2C%20or%2095%25.
+      \endverb
+      \verb{url}
+      \verb https://www.scribbr.co.uk/stats/confidence-interval-meaning/#:~:text=using%20confidence%20intervals-,What%20exactly%20is%20a%20confidence%20interval?,specified%20by%20the%20confidence%20interval.&text=So%20if%20you%20use%20an,=%200.95%2C%20or%2095%25.
+      \endverb
+    \endentry
+    \entry{KDE_FUNCTION}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=376cf3e2a3fab83d95f94b779967c1a5}{%
+           family={Drapala},
+           familyi={D\bibinitperiod},
+           given={Jaroslaw},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{376cf3e2a3fab83d95f94b779967c1a5}
+      \strng{fullhash}{376cf3e2a3fab83d95f94b779967c1a5}
+      \strng{fullhashraw}{376cf3e2a3fab83d95f94b779967c1a5}
+      \strng{bibnamehash}{376cf3e2a3fab83d95f94b779967c1a5}
+      \strng{authorbibnamehash}{376cf3e2a3fab83d95f94b779967c1a5}
+      \strng{authornamehash}{376cf3e2a3fab83d95f94b779967c1a5}
+      \strng{authorfullhash}{376cf3e2a3fab83d95f94b779967c1a5}
+      \strng{authorfullhashraw}{376cf3e2a3fab83d95f94b779967c1a5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kernel Density Estimation explained step by step}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://towardsdatascience.com/kernel-density-estimation-explained-step-by-step-7cc5b5bc4517/
+      \endverb
+      \verb{url}
+      \verb https://towardsdatascience.com/kernel-density-estimation-explained-step-by-step-7cc5b5bc4517/
+      \endverb
+    \endentry
+    \entry{P_INTERPRETATION}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=a48a6a3c9d28d4663fdb2fd4fd65511b}{%
+           family={Olivia\bibnamedelima Guy-Evans},
+           familyi={O\bibinitperiod\bibinitdelim G\bibinithyphendelim E\bibinitperiod},
+           given={MSc},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a48a6a3c9d28d4663fdb2fd4fd65511b}
+      \strng{fullhash}{a48a6a3c9d28d4663fdb2fd4fd65511b}
+      \strng{fullhashraw}{a48a6a3c9d28d4663fdb2fd4fd65511b}
+      \strng{bibnamehash}{a48a6a3c9d28d4663fdb2fd4fd65511b}
+      \strng{authorbibnamehash}{a48a6a3c9d28d4663fdb2fd4fd65511b}
+      \strng{authornamehash}{a48a6a3c9d28d4663fdb2fd4fd65511b}
+      \strng{authorfullhash}{a48a6a3c9d28d4663fdb2fd4fd65511b}
+      \strng{authorfullhashraw}{a48a6a3c9d28d4663fdb2fd4fd65511b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{P-Value And Statistical Significance: What It Is \& Why It Matters}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.simplypsychology.org/p-value.html
+      \endverb
+      \verb{url}
+      \verb https://www.simplypsychology.org/p-value.html
+      \endverb
+    \endentry
+    \entry{related_work_energy_consumption}{inproceedings}{}{}
+      \name{author}{5}{}{%
+        {{hash=7408e343645573adfe4f95dc5c1e36ac}{%
+           family={Vomhoff},
+           familyi={V\bibinitperiod},
+           given={Viktoria},
+           giveni={V\bibinitperiod}}}%
+        {{hash=85c2a5f01966541851a0bc6feb4b047f}{%
+           family={Raffeck},
+           familyi={R\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0c04920f5393a5e718eccad49a30c7e7}{%
+           family={Gebert},
+           familyi={G\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f3ec033e6d1b5a1debc22064863c1653}{%
+           family={Geissler},
+           familyi={G\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1c51226788ea308a63fa8e64bf875df0}{%
+           family={Hossfeld},
+           familyi={H\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rome, Italy}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{138df4bd25c535ecd50624349d52a5cd}
+      \strng{fullhash}{0a21993261b6d5b5d578c128452cc572}
+      \strng{fullhashraw}{0a21993261b6d5b5d578c128452cc572}
+      \strng{bibnamehash}{138df4bd25c535ecd50624349d52a5cd}
+      \strng{authorbibnamehash}{138df4bd25c535ecd50624349d52a5cd}
+      \strng{authornamehash}{138df4bd25c535ecd50624349d52a5cd}
+      \strng{authorfullhash}{0a21993261b6d5b5d578c128452cc572}
+      \strng{authorfullhashraw}{0a21993261b6d5b5d578c128452cc572}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2023 IEEE International Conference on Communications Workshops (ICC Workshops)}
+      \field{isbn}{979-8-3503-3307-7}
+      \field{issn}{2694-2941}
+      \field{month}{5}
+      \field{note}{Date of Conference: 28 May 2023 - 01 June 2023; Date Added to IEEE Xplore: 23 October 2023}
+      \field{title}{NB-IoT vs. LTE-M: Measurement Study of the Energy Consumption of LPWAN Technologies}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1109/ICCWorkshops57953.2023.10283595
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/10283595
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/10283595
+      \endverb
+    \endentry
+    \entry{LTEM_POWER}{inproceedings}{}{}
+      \name{author}{5}{}{%
+        {{hash=7408e343645573adfe4f95dc5c1e36ac}{%
+           family={Vomhoff},
+           familyi={V\bibinitperiod},
+           given={Viktoria},
+           giveni={V\bibinitperiod}}}%
+        {{hash=85c2a5f01966541851a0bc6feb4b047f}{%
+           family={Raffeck},
+           familyi={R\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0c04920f5393a5e718eccad49a30c7e7}{%
+           family={Gebert},
+           familyi={G\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f3ec033e6d1b5a1debc22064863c1653}{%
+           family={Geissler},
+           familyi={G\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1c51226788ea308a63fa8e64bf875df0}{%
+           family={Hossfeld},
+           familyi={H\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rome, Italy}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{138df4bd25c535ecd50624349d52a5cd}
+      \strng{fullhash}{0a21993261b6d5b5d578c128452cc572}
+      \strng{fullhashraw}{0a21993261b6d5b5d578c128452cc572}
+      \strng{bibnamehash}{138df4bd25c535ecd50624349d52a5cd}
+      \strng{authorbibnamehash}{138df4bd25c535ecd50624349d52a5cd}
+      \strng{authornamehash}{138df4bd25c535ecd50624349d52a5cd}
+      \strng{authorfullhash}{0a21993261b6d5b5d578c128452cc572}
+      \strng{authorfullhashraw}{0a21993261b6d5b5d578c128452cc572}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2023 IEEE International Conference on Communications Workshops (ICC Workshops)}
+      \field{isbn}{979-8-3503-3307-7}
+      \field{issn}{2694-2941}
+      \field{month}{5}
+      \field{note}{Date of Conference: 28 May 2023 - 01 June 2023; Date Added to IEEE Xplore: 23 October 2023}
+      \field{title}{NB-IoT vs. LTE-M: Measurement Study of the Energy Consumption of LPWAN Technologies}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1109/ICCWorkshops57953.2023.10283595
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/10283595
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/10283595
+      \endverb
+    \endentry
+    \entry{KRUSKAL_WALLIS_TEST}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kruskal-Wallis-Test}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://de.wikipedia.org/wiki/Kruskal-Wallis-Test
+      \endverb
+      \verb{url}
+      \verb https://de.wikipedia.org/wiki/Kruskal-Wallis-Test
+      \endverb
+    \endentry
+    \entry{MANN_WHITNEY_U_TEST}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=413a2b13183691dcc13d1b50b3d1a287}{%
+           family={McClenaghan},
+           familyi={M\bibinitperiod},
+           given={Elliot},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{413a2b13183691dcc13d1b50b3d1a287}
+      \strng{fullhash}{413a2b13183691dcc13d1b50b3d1a287}
+      \strng{fullhashraw}{413a2b13183691dcc13d1b50b3d1a287}
+      \strng{bibnamehash}{413a2b13183691dcc13d1b50b3d1a287}
+      \strng{authorbibnamehash}{413a2b13183691dcc13d1b50b3d1a287}
+      \strng{authornamehash}{413a2b13183691dcc13d1b50b3d1a287}
+      \strng{authorfullhash}{413a2b13183691dcc13d1b50b3d1a287}
+      \strng{authorfullhashraw}{413a2b13183691dcc13d1b50b3d1a287}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mann-Whitney U Test: Assumptions and Example}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.technologynetworks.com/informatics/articles/mann-whitney-u-test-assumptions-and-example-363425
+      \endverb
+      \verb{url}
+      \verb https://www.technologynetworks.com/informatics/articles/mann-whitney-u-test-assumptions-and-example-363425
+      \endverb
+    \endentry
+    \entry{CREG_STATUS_CODES}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=352a7dc6b3bb9969e19f0d298749f3cc}{%
+           family={Semiconductor},
+           familyi={S\bibinitperiod},
+           given={Nordic},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{352a7dc6b3bb9969e19f0d298749f3cc}
+      \strng{fullhash}{352a7dc6b3bb9969e19f0d298749f3cc}
+      \strng{fullhashraw}{352a7dc6b3bb9969e19f0d298749f3cc}
+      \strng{bibnamehash}{352a7dc6b3bb9969e19f0d298749f3cc}
+      \strng{authorbibnamehash}{352a7dc6b3bb9969e19f0d298749f3cc}
+      \strng{authornamehash}{352a7dc6b3bb9969e19f0d298749f3cc}
+      \strng{authorfullhash}{352a7dc6b3bb9969e19f0d298749f3cc}
+      \strng{authorfullhashraw}{352a7dc6b3bb9969e19f0d298749f3cc}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Network registration status notification +CEREG}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://docs.nordicsemi.com/bundle/ref_at_commands/page/REF/at_commands/nw_service/cereg.html
+      \endverb
+      \verb{url}
+      \verb https://docs.nordicsemi.com/bundle/ref_at_commands/page/REF/at_commands/nw_service/cereg.html
+      \endverb
+    \endentry
+    \entry{CSCON_STATUS_CODES}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=352a7dc6b3bb9969e19f0d298749f3cc}{%
+           family={Semiconductor},
+           familyi={S\bibinitperiod},
+           given={Nordic},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{352a7dc6b3bb9969e19f0d298749f3cc}
+      \strng{fullhash}{352a7dc6b3bb9969e19f0d298749f3cc}
+      \strng{fullhashraw}{352a7dc6b3bb9969e19f0d298749f3cc}
+      \strng{bibnamehash}{352a7dc6b3bb9969e19f0d298749f3cc}
+      \strng{authorbibnamehash}{352a7dc6b3bb9969e19f0d298749f3cc}
+      \strng{authornamehash}{352a7dc6b3bb9969e19f0d298749f3cc}
+      \strng{authorfullhash}{352a7dc6b3bb9969e19f0d298749f3cc}
+      \strng{authorfullhashraw}{352a7dc6b3bb9969e19f0d298749f3cc}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Signaling connection status notification +CSCON}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://docs.nordicsemi.com/bundle/ref_at_commands/page/REF/at_commands/packet_domain/cscon.html
+      \endverb
+      \verb{url}
+      \verb https://docs.nordicsemi.com/bundle/ref_at_commands/page/REF/at_commands/packet_domain/cscon.html
+      \endverb
+    \endentry
+    \entry{LTEM_WIKI}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{2}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{LTE-M}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/LTE-M
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/LTE-M
+      \endverb
+    \endentry
+    \entry{MQTT_WIKI}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{3}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MQTT}
+      \verb{urlraw}
+      \verb https://de.wikipedia.org/wiki/MQTT
+      \endverb
+      \verb{url}
+      \verb https://de.wikipedia.org/wiki/MQTT
+      \endverb
+    \endentry
+    \entry{NBIOT_WIKI}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{4}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Narrowband IoT}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Narrowband_IoT
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Narrowband_IoT
+      \endverb
+    \endentry
+    \entry{LWM2M_WIKI}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{5}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{OMA LwM2M}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/OMA_LWM2M
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/OMA_LWM2M
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

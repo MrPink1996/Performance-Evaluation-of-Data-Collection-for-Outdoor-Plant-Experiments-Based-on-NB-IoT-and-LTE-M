@@ -1,0 +1,114 @@
+Fri Jul 11 18:32:37 2025 : [00:01:34.179,321] <inf> app_lwm2m_client: Button 2 pressed, start Program
+Fri Jul 11 18:32:38 2025 : [00:01:36.016,387] <inf> nrf_modem_lib_trace: Trace thread ready
+Fri Jul 11 18:32:38 2025 : [00:01:36.024,108] <inf> nrf_modem_lib_trace: Trace level override: 2
+Fri Jul 11 18:32:38 2025 : [00:01:36.032,318] <inf> app_lwm2m_client: endpoint: urn:imei:351358815327405
+Fri Jul 11 18:32:38 2025 : [00:01:36.195,068] <inf> lwm2m_lte_notification: Registering ncell notification handler
+Fri Jul 11 18:32:38 2025 : [00:01:36.195,159] <inf> lwm2m_firmware: Image is confirmed OK
+Fri Jul 11 18:32:40 2025 : [00:01:37.719,879] <dbg> app_lwm2m_client: lwm2m_lte_reg_handler_notify: LTE NW status: 2
+Fri Jul 11 18:32:40 2025 : [00:01:38.450,012] <dbg> app_lwm2m_client: lwm2m_lte_reg_handler_notify: LTE NW status: 5
+Fri Jul 11 18:32:40 2025 : [00:01:38.451,049] <inf> app_lwm2m_client: Connected to the network in mode: 7
+Fri Jul 11 18:32:43 2025 : [00:01:41.454,559] <inf> app_lwm2m_client: lte_lc_conn_eval_params_get: 0 <OK>
+Fri Jul 11 18:32:43 2025 : [00:01:41.454,589] <inf> app_lwm2m_client: modem_info_init: 0 <OK>
+Fri Jul 11 18:32:43 2025 : [00:01:41.454,650] <inf> app_lwm2m_client: modem_info_params_init: 0 <OK>
+Fri Jul 11 18:32:43 2025 : [00:01:41.484,527] <inf> app_lwm2m_client: modem_info_params_get: 0 <OK>
+Fri Jul 11 18:32:43 2025 : [00:01:41.485,809] <inf> app_lwm2m_client: lte_lc_psm_get: 0 <OK>
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,602] <inf> app_lwm2m_client: lte_lc_edrx_get: 0 <OK>
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,633] <inf> app_lwm2m_client: Modem parameters:
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,663] <inf> app_lwm2m_client: APN: iot.1nce.net
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,694] <inf> app_lwm2m_client: TAC: 35E9
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,694] <inf> app_lwm2m_client: MCC: 262
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,755] <inf> app_lwm2m_client: MNC: 1
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,755] <inf> app_lwm2m_client: Band: 20
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,755] <inf> app_lwm2m_client: Earfcn: 6400
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,785] <inf> app_lwm2m_client: Cell ID: 31030790
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,785] <inf> app_lwm2m_client: Phy Cell ID: 132
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,816] <inf> app_lwm2m_client: Tx Power: 22
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,816] <inf> app_lwm2m_client: Rx Repetitions: 1
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,816] <inf> app_lwm2m_client: Tx Repetitions: 1
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,846] <inf> app_lwm2m_client: Energy Estimate: 5
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,846] <inf> app_lwm2m_client: Active Time: -1
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,846] <inf> app_lwm2m_client: CE Level: 0
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,877] <inf> app_lwm2m_client: eDRX: 0.000000
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,877] <inf> app_lwm2m_client: RSRP: 43
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,907] <inf> app_lwm2m_client: RSRQ: -2
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,907] <inf> app_lwm2m_client: SNR: 20
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,938] <inf> app_lwm2m_client: DL Pathloss: 115
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,938] <inf> app_lwm2m_client: Tau: 3240
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,938] <inf> app_lwm2m_client: TAU triggered: 0
+Fri Jul 11 18:32:43 2025 : [00:01:41.486,968] <inf> app_lwm2m_client: Link: 7
+Fri Jul 11 18:32:44 2025 : [00:01:41.795,104] <inf> app_lwm2m_client: Link throughput: 199324.578125
+Fri Jul 11 18:32:44 2025 : [00:01:41.795,135] <inf> app_lwm2m_client: Client connect to server
+Fri Jul 11 18:32:44 2025 : [00:01:41.795,196] <inf> net_lwm2m_rd_client: Start LWM2M Client: urn:imei:351358815327405
+Fri Jul 11 18:32:44 2025 : [00:01:41.795,806] <inf> net_lwm2m_rd_client: RD Client started with endpoint 'urn:imei:351358815327405' with client lifetime 43200 using server object 0
+Fri Jul 11 18:32:44 2025 : [00:01:41.796,020] <inf> app_lwm2m_client: LwM2M is connecting to server
+Fri Jul 11 18:32:44 2025 : [00:01:42.080,261] <inf> lwm2m_security: Need to write credentials, requesting LTE and GNSS offline...
+Fri Jul 11 18:32:44 2025 : [00:01:42.129,333] <dbg> app_lwm2m_client: lwm2m_lte_reg_handler_notify: LTE NW status: 0
+Fri Jul 11 18:32:44 2025 : [00:01:42.129,516] <inf> app_lwm2m_client: LwM2M is connecting to server
+Fri Jul 11 18:32:48 2025 : [00:01:45.348,266] <inf> lwm2m_security: Requesting LTE and GNSS online
+Fri Jul 11 18:32:49 2025 : [00:01:46.687,316] <dbg> app_lwm2m_client: lwm2m_lte_reg_handler_notify: LTE NW status: 2
+Fri Jul 11 18:32:49 2025 : [00:01:47.408,599] <inf> lwm2m_security: Modem connection restored
+Fri Jul 11 18:32:49 2025 : [00:01:47.409,942] <dbg> app_lwm2m_client: lwm2m_lte_reg_handler_notify: LTE NW status: 5
+Fri Jul 11 18:32:49 2025 : [00:01:47.410,675] <inf> app_lwm2m_client: LwM2M is connecting to server
+Fri Jul 11 18:32:50 2025 : [00:01:47.781,311] <inf> net_lwm2m_engine: Connected, sock id 2
+Fri Jul 11 18:32:50 2025 : [00:01:47.862,548] <dbg> app_lwm2m_client: rd_client_event: Registration complete
+Fri Jul 11 18:32:50 2025 : [00:01:47.862,701] <inf> net_lwm2m_rd_client: Registration Done (EP='krfYLAlZbr')
+Fri Jul 11 18:32:58 2025 : [00:01:47.863,555] <inf> app_lwm2m_client: LwM2M is connected to server
+Fri Jul 11 18:32:58 2025 : [00:01:47.863,586] <inf> app_lwm2m_client: Start start_time
+Fri Jul 11 18:32:58 2025 : [00:01:47.863,677] <inf> app_lwm2m_client: Obtained date-time from modem
+Fri Jul 11 18:33:12 2025 : [00:02:09.863,769] <inf> app_lwm2m_client: Turning off LTE M 
+Fri Jul 11 18:33:12 2025 : [00:02:09.863,830] <dbg> app_lwm2m_client: rd_client_event: Disconnected
+Fri Jul 11 18:33:12 2025 : [00:02:09.864,135] <inf> net_lwm2m_rd_client: Stop LWM2M Client: urn:imei:351358815327405
+Fri Jul 11 18:33:12 2025 : [00:02:09.864,349] <inf> app_lwm2m_client: CONNECTION_TIME_LINK_LTEM: 2245
+Fri Jul 11 18:33:12 2025 : [00:02:09.864,379] <inf> app_lwm2m_client: CONNECTION_TIME_PROTOCOL_LTEM: 6068
+Fri Jul 11 18:33:15 2025 : [00:02:12.930,877] <dbg> app_lwm2m_client: lwm2m_lte_reg_handler_notify: LTE NW status: 0
+Fri Jul 11 18:33:20 2025 : [00:02:17.492,401] <dbg> app_lwm2m_client: lwm2m_lte_reg_handler_notify: LTE NW status: 2
+Fri Jul 11 18:33:23 2025 : [00:02:21.069,213] <dbg> app_lwm2m_client: lwm2m_lte_reg_handler_notify: LTE NW status: 5
+Fri Jul 11 18:33:23 2025 : [00:02:21.070,281] <inf> app_lwm2m_client: Connected to the network in mode: 9
+Fri Jul 11 18:33:26 2025 : [00:02:24.151,947] <inf> app_lwm2m_client: lte_lc_conn_eval_params_get: 0 <OK>
+Fri Jul 11 18:33:26 2025 : [00:02:24.152,008] <inf> app_lwm2m_client: modem_info_init: 0 <OK>
+Fri Jul 11 18:33:26 2025 : [00:02:24.152,038] <inf> app_lwm2m_client: modem_info_params_init: 0 <OK>
+Fri Jul 11 18:33:26 2025 : [00:02:24.181,152] <inf> app_lwm2m_client: modem_info_params_get: 0 <OK>
+Fri Jul 11 18:33:26 2025 : [00:02:24.182,281] <inf> app_lwm2m_client: lte_lc_psm_get: 0 <OK>
+Fri Jul 11 18:33:26 2025 : [00:02:24.182,861] <inf> app_lwm2m_client: lte_lc_edrx_get: 0 <OK>
+Fri Jul 11 18:33:26 2025 : [00:02:24.182,861] <inf> app_lwm2m_client: Modem parameters:
+Fri Jul 11 18:33:26 2025 : [00:02:24.182,891] <inf> app_lwm2m_client: APN: iot.1nce.net
+Fri Jul 11 18:33:26 2025 : [00:02:24.182,922] <inf> app_lwm2m_client: TAC: E2A4
+Fri Jul 11 18:33:26 2025 : [00:02:24.182,952] <inf> app_lwm2m_client: MCC: 262
+Fri Jul 11 18:33:26 2025 : [00:02:24.182,983] <inf> app_lwm2m_client: MNC: 1
+Fri Jul 11 18:33:26 2025 : [00:02:24.182,983] <inf> app_lwm2m_client: Band: 8
+Fri Jul 11 18:33:26 2025 : [00:02:24.182,983] <inf> app_lwm2m_client: Earfcn: 3739
+Fri Jul 11 18:33:26 2025 : [00:02:24.183,013] <inf> app_lwm2m_client: Cell ID: 31428622
+Fri Jul 11 18:33:26 2025 : [00:02:24.183,013] <inf> app_lwm2m_client: Phy Cell ID: 177
+Fri Jul 11 18:33:26 2025 : [00:02:24.183,013] <inf> app_lwm2m_client: Tx Power: 7
+Fri Jul 11 18:33:26 2025 : [00:02:24.183,044] <inf> app_lwm2m_client: Rx Repetitions: 1
+Fri Jul 11 18:33:26 2025 : [00:02:24.183,044] <inf> app_lwm2m_client: Tx Repetitions: 1
+Fri Jul 11 18:33:26 2025 : [00:02:24.183,044] <inf> app_lwm2m_client: Energy Estimate: 7
+Fri Jul 11 18:33:26 2025 : [00:02:24.183,074] <inf> app_lwm2m_client: Active Time: -1
+Fri Jul 11 18:33:26 2025 : [00:02:24.183,074] <inf> app_lwm2m_client: CE Level: 0
+Fri Jul 11 18:33:26 2025 : [00:02:24.183,105] <inf> app_lwm2m_client: eDRX: 0.000000
+Fri Jul 11 18:33:26 2025 : [00:02:24.183,105] <inf> app_lwm2m_client: RSRP: 50
+Fri Jul 11 18:33:26 2025 : [00:02:24.183,135] <inf> app_lwm2m_client: RSRQ: 26
+Fri Jul 11 18:33:26 2025 : [00:02:24.183,135] <inf> app_lwm2m_client: SNR: 30
+Fri Jul 11 18:33:26 2025 : [00:02:24.183,135] <inf> app_lwm2m_client: DL Pathloss: 113
+Fri Jul 11 18:33:26 2025 : [00:02:24.183,166] <inf> app_lwm2m_client: Tau: 1116000
+Fri Jul 11 18:33:26 2025 : [00:02:24.183,166] <inf> app_lwm2m_client: TAU triggered: 0
+Fri Jul 11 18:33:26 2025 : [00:02:24.183,166] <inf> app_lwm2m_client: Link: 9
+Fri Jul 11 18:33:27 2025 : [00:02:24.914,367] <inf> app_lwm2m_client: Link throughput: 14568.644531
+Fri Jul 11 18:33:27 2025 : [00:02:24.914,398] <inf> app_lwm2m_client: Client connect to server
+Fri Jul 11 18:33:27 2025 : [00:02:24.914,459] <inf> net_lwm2m_rd_client: Start LWM2M Client: urn:imei:351358815327405
+Fri Jul 11 18:33:27 2025 : [00:02:24.915,069] <inf> net_lwm2m_rd_client: RD Client started with endpoint 'urn:imei:351358815327405' with client lifetime 43200 using server object 0
+Fri Jul 11 18:33:27 2025 : [00:02:24.915,283] <inf> app_lwm2m_client: LwM2M is connecting to server
+Fri Jul 11 18:33:27 2025 : [00:02:25.856,292] <inf> net_lwm2m_engine: Connected, sock id 2
+Fri Jul 11 18:33:28 2025 : [00:02:26.129,333] <dbg> app_lwm2m_client: rd_client_event: Registration complete
+Fri Jul 11 18:33:29 2025 : [00:02:26.129,516] <inf> net_lwm2m_rd_client: Registration Done (EP='leD42S7vcN')
+Fri Jul 11 18:33:46 2025 : [00:02:26.130,371] <inf> app_lwm2m_client: LwM2M is connected to server
+Fri Jul 11 18:33:46 2025 : [00:02:26.130,371] <inf> app_lwm2m_client: Start start_time
+Fri Jul 11 18:33:46 2025 : [00:02:26.130,462] <inf> app_lwm2m_client: Obtained date-time from modem
+Fri Jul 11 18:33:50 2025 : [00:02:48.130,523] <inf> app_lwm2m_client: Turning off NBIOT 
+Fri Jul 11 18:33:50 2025 : [00:02:48.130,584] <dbg> app_lwm2m_client: rd_client_event: Disconnected
+Fri Jul 11 18:33:51 2025 : [00:02:48.130,889] <inf> net_lwm2m_rd_client: Stop LWM2M Client: urn:imei:351358815327405
+Fri Jul 11 18:33:53 2025 : [00:02:50.173,858] <dbg> app_lwm2m_client: lwm2m_lte_reg_handler_notify: LTE NW status: 0
+Fri Jul 11 18:33:53 2025 : [00:02:50.329,925] <inf> app_lwm2m_client: CONNECTION_TIME_LINK_NBIOT: 6435
+Fri Jul 11 18:33:53 2025 : [00:02:50.329,925] <inf> app_lwm2m_client: CONNECTION_TIME_PROTOCOL_NBIOT: 1216
+Fri Jul 11 18:33:53 2025 : [00:02:50.384,460] <inf> nrf_modem_lib_trace: Modem was turned off, no more traces
+Fri Jul 11 18:33:53 2025 : [00:02:50.384,521] <inf> app_lwm2m_client: nrf_modem_lib_shutdown() returned 0

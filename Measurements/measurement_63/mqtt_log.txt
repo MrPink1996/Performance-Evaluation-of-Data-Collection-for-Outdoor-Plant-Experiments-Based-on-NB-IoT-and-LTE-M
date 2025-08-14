@@ -1,0 +1,200 @@
+Thu Jul 10 17:08:00 2025 : [00:00:04.702,239] <inf> lte_ble_gw: Button 1 pressed, start Program
+Thu Jul 10 17:08:02 2025 : [00:00:06.303,833] <inf> lte_ble_gw: GET GPS DATA
+Thu Jul 10 17:08:02 2025 : [00:00:06.537,750] <inf> nrf_modem_lib_trace: Trace thread ready
+Thu Jul 10 17:08:02 2025 : [00:00:06.545,410] <inf> nrf_modem_lib_trace: Trace level override: 2
+Thu Jul 10 17:08:02 2025 : [00:00:06.551,452] <inf> lte_ble_gw: nrf_modem_lib_init: 0 <OK>
+Thu Jul 10 17:08:05 2025 : +CEREG: 2,"AF65","009F1667",9
+Thu Jul 10 17:08:05 2025 : +CSCON: 1
+Thu Jul 10 17:08:05 2025 : +CEREG: 5,"AF65","009F1667",9,,,"11100000","11100000"
+Thu Jul 10 17:08:05 2025 : [00:00:10.202,911] <inf> lte_ble_gw: Connected to the network in mode: 9
+Thu Jul 10 17:08:05 2025 : [00:00:10.202,941] <inf> lte_ble_gw: switch_to_mode: 0 <OK>
+Thu Jul 10 17:08:05 2025 : [00:00:10.204,406] <inf> lte_ble_gw: lte_lc_func_mode: 0 <OK>
+Thu Jul 10 17:08:05 2025 : [00:00:10.204,467] <inf> lte_ble_gw: nrf_modem_gnss_event_handler_set: 0 <OK>
+Thu Jul 10 17:08:05 2025 : [00:00:10.205,688] <inf> lte_ble_gw: nrf_modem_gnss_fix_interval_set: 0 <OK>
+Thu Jul 10 17:08:05 2025 : [00:00:10.207,000] <inf> lte_ble_gw: nrf_modem_gnss_fix_retry_set: 0 <OK>
+Thu Jul 10 17:08:05 2025 : %XTIME: "80","52700151805080","01"
+Thu Jul 10 17:08:06 2025 : [00:00:10.360,473] <inf> lte_ble_gw: Connecting to 64.233.167.192 port 7276
+Thu Jul 10 17:08:06 2025 : [00:00:10.474,884] <inf> lte_ble_gw: open_supl_socket: 0 <OK>
+Thu Jul 10 17:08:06 2025 : [00:00:10.474,945] <inf> lte_ble_gw: assistance_init: 0 <OK>
+Thu Jul 10 17:08:06 2025 : [00:00:10.477,600] <inf> lte_ble_gw: nrf_modem_gnss_start: 0 <OK>
+Thu Jul 10 17:08:06 2025 : [00:00:11.477,233] <inf> lte_ble_gw: Satalite data: Tracked: 0, In_fix: 0, Unhealthy: 0
+Thu Jul 10 17:08:06 2025 : [00:00:11.477,752] <inf> lte_ble_gw: nrf_modem_gnss_read: 0 <OK>
+Thu Jul 10 17:08:06 2025 : [00:00:11.478,698] <inf> lte_ble_gw: Connecting to 64.233.167.192 port 7276
+Thu Jul 10 17:08:06 2025 : [00:00:11.761,901] <inf> lte_ble_gw: Starting SUPL session
+Thu Jul 10 17:08:06 2025 : [00:00:11.764,282] <inf> lte_ble_gw: ULP encoding length: 34
+Thu Jul 10 17:08:06 2025 : [00:00:11.765,014] <inf> lte_ble_gw: Bytes sent: 34
+Thu Jul 10 17:08:06 2025 : [00:00:11.930,236] <inf> lte_ble_gw: Bytes received: 30, total 30
+Thu Jul 10 17:08:06 2025 : [00:00:11.930,786] <inf> lte_ble_gw: ULP ossDecode success, choice 3
+Thu Jul 10 17:08:06 2025 : [00:00:11.930,938] <inf> lte_ble_gw: SUPL server responded using version 2.0.4
+Thu Jul 10 17:08:06 2025 : [00:00:11.931,060] <inf> lte_ble_gw: SUPL response received
+Thu Jul 10 17:08:06 2025 : [00:00:11.931,304] <inf> lte_ble_gw: ULP encoding length: 53
+Thu Jul 10 17:08:06 2025 : [00:00:11.932,067] <inf> lte_ble_gw: Bytes sent: 53
+Thu Jul 10 17:08:07 2025 : [00:00:12.291,656] <inf> lte_ble_gw: Bytes received: 708, total 708
+Thu Jul 10 17:08:07 2025 : --- 3 messages dropped ---
+Thu Jul 10 17:08:07 2025 : [00:00:12.572,296] <inf> lte_ble_gw: ULP ossDecode more input 4
+Thu Jul 10 17:08:07 2025 : --- 1 messages dropped ---
+Thu Jul 10 17:08:07 2025 : [00:00:12.882,202] <inf> lte_ble_gw: ULP ossDecode more input 4
+Thu Jul 10 17:08:07 2025 : [00:00:13.012,451] <inf> lte_ble_gw: Bytes received: 214, total 2338
+Thu Jul 10 17:08:07 2025 : --- 1 messages dropped ---
+Thu Jul 10 17:08:07 2025 : [00:00:13.017,944] <inf> lte_ble_gw: Injected A-GNSS data, type: 6, size: 144
+Thu Jul 10 17:08:07 2025 : --- 2 messages dropped ---
+Thu Jul 10 17:08:07 2025 : [00:00:13.018,859] <inf> lte_ble_gw: MCC location info injected, MCC: 262
+Thu Jul 10 17:08:07 2025 : --- 3 messages dropped ---
+Thu Jul 10 17:08:07 2025 : [00:00:13.019,256] <inf> lte_ble_gw: 	Unc altitude: 127
+Thu Jul 10 17:08:07 2025 : --- 1 messages dropped ---
+Thu Jul 10 17:08:07 2025 : [00:00:13.019,470] <inf> lte_ble_gw: 	Orientation: 0
+Thu Jul 10 17:08:07 2025 : [00:00:13.020,141] <inf> lte_ble_gw: Injected A-GNSS data, type: 1, size: 16
+Thu Jul 10 17:08:07 2025 : [00:00:13.023,925] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:07 2025 : --- 1 messages dropped ---
+Thu Jul 10 17:08:07 2025 : [00:00:13.031,860] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:07 2025 : [00:00:13.035,858] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:07 2025 : [00:00:13.039,794] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:07 2025 : [00:00:13.043,487] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:07 2025 : --- 2 messages dropped ---
+Thu Jul 10 17:08:07 2025 : [00:00:13.054,382] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:07 2025 : --- 1 messages dropped ---
+Thu Jul 10 17:08:07 2025 : [00:00:13.062,408] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:08 2025 : --- 3 messages dropped ---
+Thu Jul 10 17:08:08 2025 : [00:00:13.076,812] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:08 2025 : [00:00:13.080,841] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:08 2025 : [00:00:13.084,838] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:08 2025 : [00:00:13.088,714] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:08 2025 : [00:00:13.092,559] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:08 2025 : [00:00:13.096,099] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:08 2025 : [00:00:13.099,487] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:08 2025 : [00:00:13.103,240] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:08 2025 : [00:00:13.107,513] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:08 2025 : [00:00:13.111,419] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:08 2025 : [00:00:13.115,447] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:08 2025 : [00:00:13.119,354] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:08 2025 : [00:00:13.123,046] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:08 2025 : [00:00:13.126,586] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:08 2025 : [00:00:13.129,974] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:08 2025 : [00:00:13.133,758] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:08 2025 : [00:00:13.138,000] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:08 2025 : [00:00:13.141,937] <inf> lte_ble_gw: Injected A-GNSS data, type: 2, size: 72
+Thu Jul 10 17:08:08 2025 : [00:00:13.142,089] <inf> lte_ble_gw: No almanac data available
+Thu Jul 10 17:08:08 2025 : [00:00:13.142,181] <inf> lte_ble_gw: No integrity data available
+Thu Jul 10 17:08:08 2025 : [00:00:13.142,272] <inf> lte_ble_gw: SUPL POS received
+Thu Jul 10 17:08:09 2025 : [00:00:13.478,057] <inf> lte_ble_gw: Satalite data: Tracked: 0, In_fix: 0, Unhealthy: 0
+Thu Jul 10 17:08:09 2025 : [00:00:14.080,200] <inf> lte_ble_gw: Bytes received: 30, total 30
+Thu Jul 10 17:08:09 2025 : [00:00:14.080,749] <inf> lte_ble_gw: ULP ossDecode success, choice 6
+Thu Jul 10 17:08:09 2025 : [00:00:14.080,841] <inf> lte_ble_gw: SUPL END received
+Thu Jul 10 17:08:09 2025 : [00:00:14.080,932] <inf> lte_ble_gw: SUPL session internal resources released
+Thu Jul 10 17:08:09 2025 : [00:00:14.080,993] <inf> lte_ble_gw: SUPL session finished
+Thu Jul 10 17:08:09 2025 : [00:00:14.081,024] <inf> lte_ble_gw: Done
+Thu Jul 10 17:08:09 2025 : [00:00:14.181,518] <inf> lte_ble_gw: SUPL socket closed OK 4
+Thu Jul 10 17:08:09 2025 : [00:00:14.181,549] <inf> lte_ble_gw: assistance_request: 0 <OK>
+Thu Jul 10 17:08:10 2025 : +CEREG: 0
+Thu Jul 10 17:08:10 2025 : +CSCON: 0
+Thu Jul 10 17:08:10 2025 : [00:00:14.816,833] <inf> lte_ble_gw: Satalite data: Tracked: 0, In_fix: 0, Unhealthy: 0
+Thu Jul 10 17:08:10 2025 : [00:00:14.817,047] <inf> lte_ble_gw: lte_lc_func_mode: 0 <OK>
+Thu Jul 10 17:08:10 2025 : [00:00:14.817,077] <inf> lte_ble_gw: GNSS started, waiting for fix...
+Thu Jul 10 17:08:11 2025 : [00:00:15.918,945] <inf> lte_ble_gw: GNSS Fix: Latitude: 50.949765, Longitude: 6.945540, Accuracy: 10.687252 m
+Thu Jul 10 17:08:11 2025 : [00:00:15.919,006] <inf> lte_ble_gw: Satalite data: Tracked: 10, In_fix: 6, Unhealthy: 0
+Thu Jul 10 17:08:15 2025 : [00:00:19.817,169] <inf> lte_ble_gw: FOUND GNSS FIX: Latitude:50.949764, Longitude:6.945540, Accuracy:10.687252,
+Thu Jul 10 17:08:17 2025 : [00:00:21.826,049] <inf> lte_ble_gw: nrf_modem_gnss_stop: 0 <OK>
+Thu Jul 10 17:08:19 2025 : [00:00:23.254,516] <inf> lte_ble_gw: lte_lc_power_off: 0 <OK>
+Thu Jul 10 17:08:19 2025 : [00:00:23.282,196] <inf> nrf_modem_lib_trace: Modem was turned off, no more traces
+Thu Jul 10 17:08:19 2025 : [00:00:23.282,257] <inf> lte_ble_gw: nrf_modem_lib_shutdown: 0 <OK>
+Thu Jul 10 17:08:22 2025 : [00:00:26.485,443] <inf> lte_ble_gw: TRY TO CONNECT TO LTE-M
+Thu Jul 10 17:08:22 2025 : [00:00:26.719,818] <inf> nrf_modem_lib_trace: Trace thread ready
+Thu Jul 10 17:08:22 2025 : [00:00:26.727,478] <inf> nrf_modem_lib_trace: Trace level override: 2
+Thu Jul 10 17:08:22 2025 : [00:00:26.850,555] <inf> lte_ble_gw: certificates_provision: 0 <OK>
+Thu Jul 10 17:08:23 2025 : +CEREG: 2,"AC09","009F1603",7
+Thu Jul 10 17:08:23 2025 : +CSCON: 1
+Thu Jul 10 17:08:25 2025 : +CEREG: 5,"AC09","009F1603",7,,,"11100000","11100000"
+Thu Jul 10 17:08:25 2025 : %XTIME: "80","52700151803280","01"
+Thu Jul 10 17:08:25 2025 : [00:00:29.176,696] <inf> lte_ble_gw: Connected to the network in mode: 7
+Thu Jul 10 17:08:25 2025 : [00:00:29.176,727] <inf> lte_ble_gw: switch_to_mode: 0 <OK>
+Thu Jul 10 17:08:27 2025 : +CSCON: 0
+Thu Jul 10 17:08:27 2025 : +CSCON: 1
+Thu Jul 10 17:08:27 2025 : [00:00:32.815,429] <inf> lte_ble_gw: socket_connect_and_send: 0 <OK>
+Thu Jul 10 17:08:29 2025 : [00:00:34.735,137] <inf> lte_ble_gw: modem_info_init: 0 <OK>
+Thu Jul 10 17:08:29 2025 : --- 3 messages dropped ---
+Thu Jul 10 17:08:29 2025 : [00:00:34.766,662] <inf> lte_ble_gw: lte_lc_psm_get: 0 <OK>
+Thu Jul 10 17:08:29 2025 : --- 1 messages dropped ---
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,242] <inf> lte_ble_gw: lte_lc_edrx_get: 0 <OK>
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,272] <inf> lte_ble_gw: Modem parameters:
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,303] <inf> lte_ble_gw: APN: iot.1nce.net
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,333] <inf> lte_ble_gw: TAC: AC09
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,364] <inf> lte_ble_gw: MCC: 262
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,364] <inf> lte_ble_gw: MNC: 2
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,395] <inf> lte_ble_gw: Band: 20
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,395] <inf> lte_ble_gw: Earfcn: 6300
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,425] <inf> lte_ble_gw: Cell ID: 10425859
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,425] <inf> lte_ble_gw: Phy Cell ID: 318
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,456] <inf> lte_ble_gw: Tx Power: -9
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,456] <inf> lte_ble_gw: Rx Repetitions: 1
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,456] <inf> lte_ble_gw: Tx Repetitions: 1
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,486] <inf> lte_ble_gw: Energy Estimate: 9
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,517] <inf> lte_ble_gw: Active Time: -1
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,517] <inf> lte_ble_gw: CE Level: 0
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,547] <inf> lte_ble_gw: eDRX: 0.000000
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,578] <inf> lte_ble_gw: RSRP: 68
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,578] <inf> lte_ble_gw: RSRQ: 24
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,578] <inf> lte_ble_gw: SNR: 40
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,608] <inf> lte_ble_gw: DL Pathloss: 91
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,608] <inf> lte_ble_gw: Tau: 3240
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,639] <inf> lte_ble_gw: TAU triggered: 0
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,669] <inf> lte_ble_gw: Link: 7
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,730] <inf> lte_ble_gw: get_parameters: 0 <OK>
+Thu Jul 10 17:08:29 2025 : [00:00:34.767,761] <inf> lte_ble_gw: Link throughput: 307172.968750
+Thu Jul 10 17:08:29 2025 : [00:00:34.771,728] <inf> lte_ble_gw: mqtt_publish: 0 <OK>
+Thu Jul 10 17:08:29 2025 : [00:00:34.775,817] <inf> lte_ble_gw: mqtt_disconnect: 0 <OK>
+Thu Jul 10 17:08:30 2025 : +CEREG: 0
+Thu Jul 10 17:08:32 2025 : +CSCON: 0
+Thu Jul 10 17:08:32 2025 : [00:00:36.681,549] <inf> lte_ble_gw: lte_lc_power_off: 0 <OK>
+Thu Jul 10 17:08:32 2025 : [00:00:36.736,022] <inf> nrf_modem_lib_trace: Modem was turned off, no more traces
+Thu Jul 10 17:08:32 2025 : [00:00:36.736,083] <inf> lte_ble_gw: nrf_modem_lib_shutdown: 0 <OK>
+Thu Jul 10 17:08:32 2025 : [00:00:36.736,114] <inf> lte_ble_gw: CONNECTION_TIME_LINK_LTEM: 2322
+Thu Jul 10 17:08:32 2025 : [00:00:36.736,145] <inf> lte_ble_gw: CONNECTION_TIME_PROTOCOL_LTEM: 1916
+Thu Jul 10 17:08:37 2025 : [00:00:41.736,236] <inf> lte_ble_gw: TRY TO CONNECT TO NBIOT
+Thu Jul 10 17:08:37 2025 : [00:00:41.970,458] <inf> nrf_modem_lib_trace: Trace thread ready
+Thu Jul 10 17:08:37 2025 : [00:00:41.978,118] <inf> nrf_modem_lib_trace: Trace level override: 2
+Thu Jul 10 17:08:37 2025 : [00:00:41.984,161] <inf> lte_ble_gw: nrf_modem_lib_init: 0 <OK>
+Thu Jul 10 17:08:37 2025 : [00:00:42.283,233] <inf> lte_ble_gw: certificates_provision: 0 <OK>
+Thu Jul 10 17:08:41 2025 : +CEREG: 2,"AF65","009F1667",9
+Thu Jul 10 17:08:41 2025 : +CSCON: 1
+Thu Jul 10 17:08:42 2025 : +CEREG: 5,"AF65","009F1667",9,,,"11100000","11100000"
+Thu Jul 10 17:08:42 2025 : %XTIME: "80","52700151801480","01"
+Thu Jul 10 17:08:42 2025 : [00:00:46.845,825] <inf> lte_ble_gw: Connected to the network in mode: 9
+Thu Jul 10 17:08:42 2025 : [00:00:46.845,886] <inf> lte_ble_gw: switch_to_mode: 0 <OK>
+Thu Jul 10 17:08:45 2025 : [00:00:49.562,652] <inf> lte_ble_gw: socket_connect_and_send: 0 <OK>
+Thu Jul 10 17:08:48 2025 : [00:00:53.139,526] <inf> lte_ble_gw: modem_info_params_init: 0 <OK>
+Thu Jul 10 17:08:48 2025 : --- 5 messages dropped ---
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,386] <inf> lte_ble_gw: lte_lc_edrx_get: 0 <OK>
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,417] <inf> lte_ble_gw: Modem parameters:
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,447] <inf> lte_ble_gw: APN: iot.1nce.net
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,478] <inf> lte_ble_gw: TAC: AF65
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,539] <inf> lte_ble_gw: MCC: 262
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,539] <inf> lte_ble_gw: MNC: 2
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,569] <inf> lte_ble_gw: Band: 20
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,569] <inf> lte_ble_gw: Earfcn: 6346
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,569] <inf> lte_ble_gw: Cell ID: 10425959
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,600] <inf> lte_ble_gw: Phy Cell ID: 318
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,600] <inf> lte_ble_gw: Tx Power: -5
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,630] <inf> lte_ble_gw: Rx Repetitions: 1
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,630] <inf> lte_ble_gw: Tx Repetitions: 1
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,630] <inf> lte_ble_gw: Energy Estimate: 9
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,661] <inf> lte_ble_gw: Active Time: -1
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,661] <inf> lte_ble_gw: CE Level: 0
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,691] <inf> lte_ble_gw: eDRX: 0.000000
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,691] <inf> lte_ble_gw: RSRP: 78
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,722] <inf> lte_ble_gw: RSRQ: 27
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,722] <inf> lte_ble_gw: SNR: 44
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,752] <inf> lte_ble_gw: DL Pathloss: 87
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,752] <inf> lte_ble_gw: Tau: 3240
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,752] <inf> lte_ble_gw: TAU triggered: 0
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,783] <inf> lte_ble_gw: Link: 9
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,844] <inf> lte_ble_gw: get_parameters: 0 <OK>
+Thu Jul 10 17:08:48 2025 : [00:00:53.171,875] <inf> lte_ble_gw: Link throughput: 38619.871094
+Thu Jul 10 17:08:48 2025 : [00:00:53.175,231] <inf> lte_ble_gw: mqtt_publish: 0 <OK>
+Thu Jul 10 17:08:48 2025 : [00:00:53.178,710] <inf> lte_ble_gw: mqtt_disconnect: 0 <OK>
+Thu Jul 10 17:08:49 2025 : +CEREG: 0
+Thu Jul 10 17:08:49 2025 : +CSCON: 0
+Thu Jul 10 17:08:51 2025 : [00:00:55.410,766] <inf> lte_ble_gw: lte_lc_power_off: 0 <OK>
+Thu Jul 10 17:08:51 2025 : [00:00:55.438,751] <inf> nrf_modem_lib_trace: Modem was turned off, no more traces
+Thu Jul 10 17:08:51 2025 : [00:00:55.438,812] <inf> lte_ble_gw: nrf_modem_lib_shutdown: 0 <OK>
+Thu Jul 10 17:08:51 2025 : [00:00:55.438,812] <inf> lte_ble_gw: CONNECTION_TIME_LINK_NBIOT: 4559
+Thu Jul 10 17:08:51 2025 : [00:00:55.438,842] <inf> lte_ble_gw: CONNECTION_TIME_PROTOCOL_NBIOT: 3574

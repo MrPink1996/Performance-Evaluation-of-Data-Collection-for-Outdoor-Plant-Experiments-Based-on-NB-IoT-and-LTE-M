@@ -1,0 +1,8 @@
+# Zephyr build output
+build/
+*.log
+*.pyc
+__pycache__/
+*.swp
+*.DS_Store
+*.settings.json
